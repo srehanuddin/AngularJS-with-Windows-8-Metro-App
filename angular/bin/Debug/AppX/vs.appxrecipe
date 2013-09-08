@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>REHAN-PC</Machine>
+    <WindowsUser>Rehan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B96B9526FD2BA6AEF7EB6C77FBCD12532171B82155DE39BE0AF20D1DB1CCB3B6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a5eafaf9-9c67-49f3-a0ea-4f9d0d3d5908_1.0.0.0_neutral__6r6f6zkbp68cr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a5eafaf9-9c67-49f3-a0ea-4f9d0d3d5908_6r6f6zkbp68cr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a5eafaf9-9c67-49f3-a0ea-4f9d0d3d5908</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rehan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-08T11:35:35.977</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-09-08T11:16:30.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-09-08T11:16:30.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T20:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T20:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T20:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T20:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\js\angular.js">
+      <PackagePath>js\angular.js</PackagePath>
+      <Modified>2013-09-08T11:21:05.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-09-08T11:16:30.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\js\jquery-1.8.2-win8-1.0.min.js">
+      <PackagePath>js\jquery-1.8.2-win8-1.0.min.js</PackagePath>
+      <Modified>2013-02-01T06:12:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-09-08T11:16:30.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-09-08T11:16:30.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\iframe.html">
+      <PackagePath>pages\home\iframe.html</PackagePath>
+      <Modified>2013-09-08T11:27:35.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-09-08T12:06:53.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-09-08T12:07:03.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-08T11:35:35.868</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

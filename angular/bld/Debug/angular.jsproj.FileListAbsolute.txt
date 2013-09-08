@@ -1,0 +1,13 @@
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\resources.pri
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\AppxManifest.xml
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\angular.build.appxrecipe
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\priconfig.xml.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\layout.resfiles.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\resources.resfiles.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\pri.resfiles.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\priconfig.xml
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\layout.resfiles
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\resources.resfiles
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\pri.resfiles
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\LanguageQualifiers.txt
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bld\Debug\ProjectArchitectures.txt

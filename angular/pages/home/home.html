@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+    <script src="/js/jquery-1.8.2-win8-1.0.min.js"></script>
+    <script type="text/javascript">
+        jQuery.isUnsafe = true;
+    </script>   
+
+    <script src="/js/angular.js"></script>
+    
+    <link href="/js/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <div id='content' ng-app='MyTutorialApp' ng-controller='MainController'>
+            {{understand}}
+            <!--<input type="text" ng-model='understand'>-->
+
+            <!--<select ng-model='selectedPerson' ng-options='obj.name for obj in people'></select>
+            <select ng-model='selectedGenre'>
+                <option ng-repeat='label in people[selectedPerson.id].music'>{{label}}</option>
+            </select>-->
+
+            <h1>Your Order</h1>
+            <div ng-repeat='item in items'>
+                <span>{{$index}}</span>
+                <span>{{item.title}}</span>
+                <input ng-model='item.quantity' type="number" >
+                <span>{{item.price | currency}}</span>
+                <span>{{item.price * item.quantity | currency}}</span>
+                <button ng-click="remove($index)">Remove</button>
+            </div>
+
+        </div>
+    </div>
+
+    <!--<iframe src="ms-appx-web:///iframe.html" width="100%" height="100%"  ></iframe>-->
+
+
+    <script>
+        var app = angular.module('MyTutorialApp', []);
+
+        app.controller("MainController", function ($scope) {
+            console.log($scope)
+            //$scope.understand = "I now understand how the scope works!";
+            /*$scope.selectedPerson = 0;
+            $scope.selectedGenre = null;
+            $scope.people = [
+                {
+                    id: 0,
+                    name: 'Leon',
+                    music: [
+                        'Rock',
+                        'Metal',
+                        'Dubstep',
+                        'Electro'
+                    ]
+                },
+                {
+                    id: 1,
+                    name: 'Chris',
+                    music: [
+                        'Indie',
+                        'Drumstep',
+                        'Dubstep',
+                        'Electro'
+                    ]
+                },
+                {
+                    id: 2,
+                    name: 'Harry',
+                    music: [
+                        'Rock',
+                        'Metal',
+                        'Thrash Metal',
+                        'Heavy Metal'
+                    ]
+                },
+                {
+                    id: 3,
+                    name: 'Allyce',
+                    music: [
+                        'Pop',
+                        'RnB',
+                        'Hip Hop'
+                    ]
+                }
+            ];*/
+
+            $scope.items = [
+                { title: 'Paint pots', quantity: 8, price: 3.95 },
+                { title: 'Polka dots', quantity: 17, price: 12.95 },
+                { title: 'Pebbles', quantity: 5, price: 6.95 }
+            ];
+            $scope.remove = function (index) {
+                $scope.items.splice(index, 1);
+            }
+
+
+        });
+
+    </script>
+</body>
+</html>

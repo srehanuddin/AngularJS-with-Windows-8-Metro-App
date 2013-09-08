@@ -50,9 +50,6 @@
     <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\home.js">
       <PackagePath>pages\home\home.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\iframe.html">
-      <PackagePath>pages\home\iframe.html</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
     </AppxPackagedFile>

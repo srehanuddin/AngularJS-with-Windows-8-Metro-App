@@ -62,7 +62,6 @@
     <Content Include="js\default.js" />
     <Content Include="js\jquery-1.8.2-win8-1.0.min.js" />
     <Content Include="js\navigator.js" />
-    <Content Include="pages\home\iframe.html" />
     <Content Include="pages\home\home.css" />
     <Content Include="pages\home\home.html" />
     <Content Include="pages\home\home.js" />

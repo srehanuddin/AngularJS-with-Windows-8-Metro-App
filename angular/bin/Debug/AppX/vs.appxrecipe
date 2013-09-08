@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-08T11:35:35.977</Modified>
+      <Modified>2013-09-08T12:29:33.421</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -68,13 +68,9 @@
       <PackagePath>pages\home\home.js</PackagePath>
       <Modified>2013-09-08T11:16:30.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\iframe.html">
-      <PackagePath>pages\home\iframe.html</PackagePath>
-      <Modified>2013-09-08T11:27:35.184</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
-      <Modified>2013-09-08T12:06:53.146</Modified>
+      <Modified>2013-09-08T12:28:22.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\default.html">
       <PackagePath>default.html</PackagePath>
@@ -82,7 +78,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rehan\Documents\Visual Studio 2012\Projects\angular\angular\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-09-08T11:35:35.868</Modified>
+      <Modified>2013-09-08T12:29:33.294</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
